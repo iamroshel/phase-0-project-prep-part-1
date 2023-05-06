@@ -1,6 +1,6 @@
 # Software Engineering Prep Final Project Setup Part I: Setting Up Your Repo
 
-## Learning Goals
+## Learning Goals c
 
 - Set up your local and remote repositories for your final Software Engineering
   Prep project
